@@ -1,0 +1,16 @@
+-cp source
+-D resourcesPath=assets
+
+-D windowSize=960x540
+
+-D ecs.no_debug_output
+
+-lib heaps
+-lib ecs
+-lib json2object
+-lib stb_ogg_sound
+-lib newgrounds
+
+-js export/js/CreatureCollab.js
+-main Main
+-debug

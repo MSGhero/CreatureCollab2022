@@ -1,0 +1,723 @@
+{
+  "creatures" : [
+    {
+      "title" : "Arez",
+      "image" : "arez",
+      "artist" : "BananzaMonke",
+      "profile" : "https://bananzamonke.newgrounds.com"
+    },
+    {
+      "title" : "Aurora",
+      "image" : "aurora",
+      "artist" : "HawtDogull",
+      "profile" : "https://hawtdogull.newgrounds.com/"
+    },
+    {
+      "title" : "Autistictillery",
+      "image" : "autistictillery",
+      "artist" : "JoeyTheMarillFan",
+      "profile" : "https://joeythemarillfan.newgrounds.com/"
+    },
+    {
+      "title" : "Average public breast feeding video enjoyer",
+      "image" : "average",
+      "artist" : "ClottyPuppy",
+      "profile" : "https://clottypuppy.newgrounds.com/"
+    },
+    {
+      "title" : "Bajang",
+      "image" : "bajang",
+      "artist" : "brocc-0",
+      "profile" : "https://brocc-0.newgrounds.com/"
+    },
+    {
+      "title" : "Bebil",
+      "image" : "bebil",
+      "artist" : "philipp",
+      "profile" : "https://philipp.newgrounds.com/"
+    },
+    {
+      "title" : "Big Bull",
+      "image" : "bigbull",
+      "artist" : "Sangiez",
+      "profile" : "https://sangiez.newgrounds.com/"
+    },
+    {
+      "title" : "Brick",
+      "image" : "brick",
+      "artist" : "brownfountain",
+      "profile" : "https://brownfountain.newgrounds.com/"
+    },
+    {
+      "title" : "Budull",
+      "image" : "Budull",
+      "artist" : "KingCrowned",
+      "profile" : "https://kingcrowned.newgrounds.com/"
+    },
+    {
+      "title" : "Capribarus",
+      "image" : "capribarus",
+      "artist" : "toastesforever",
+      "profile" : "https://toastesforever.newgrounds.com/"
+    },
+    {
+      "title" : "Clement",
+      "image" : "clement",
+      "artist" : "QueenBoo",
+      "profile" : "https://queenboo.newgrounds.com/"
+    },
+    {
+      "title" : "Cloak",
+      "image" : "cloak",
+      "artist" : "slushy",
+      "profile" : "https://slushymiivo.newgrounds.com/"
+    },
+    {
+      "title" : "Creatura",
+      "image" : "creatura",
+      "artist" : "CenterSargE",
+      "profile" : "https://centersarge.newgrounds.com/"
+    },
+    {
+      "title" : "Cupid's Fountain",
+      "image" : "cupidsfountain",
+      "artist" : "praise-bob",
+      "profile" : "https://praise-bob.newgrounds.com/"
+    },
+    {
+      "title" : "Darryl, The Dreadful Deer",
+      "image" : "darryl",
+      "artist" : "CoolioShootyMane",
+      "profile" : "https://coolioshootymane.newgrounds.com/"
+    },
+    {
+      "title" : "ENDLESS CRAB",
+      "image" : "endlesscrab",
+      "artist" : "Tamag0",
+      "profile" : "https://tamag0.newgrounds.com/"
+    },
+    {
+      "title" : "Fatailes",
+      "image" : "fatailes",
+      "artist" : "Nellyfluff",
+      "profile" : "https://nellyfluff.newgrounds.com/"
+    },
+    {
+      "title" : "Fido",
+      "image" : "fido",
+      "artist" : "CheddarExuberant",
+      "profile" : "https://cheddarexuberant.newgrounds.com/"
+    },
+    {
+      "title" : "Fimbo",
+      "image" : "fimbo",
+      "artist" : "Mr. Gluzzo",
+      "profile" : "https://twitter.com/MrGluzzo"
+    },
+    {
+      "title" : "Fressy",
+      "image" : "Fressy",
+      "artist" : "Phaox05",
+      "profile" : "https://phaox05.newgrounds.com/"
+    },
+    {
+      "title" : "Garfonzo",
+      "image" : "garfonzo",
+      "artist" : "weirtyuo",
+      "profile" : "https://weirtyuo.newgrounds.com/" 
+    },
+    {
+      "title" : "Gatallo",
+      "image" : "gatallo",
+      "artist" : "BickerySebastian",
+      "profile" : "https://bickerysebastian.newgrounds.com/"
+    },
+    {
+      "title" : "Gfdi",
+      "image" : "gfdi",
+      "artist" : "twinklyPastries",
+      "profile" : "https://twinklypastries.newgrounds.com/"
+    },
+    {
+      "title" : "Gladios Defender of The Fallen Trees",
+      "image" : "Gladios",
+      "artist" : "TheLoFiBoi",
+      "profile" : "https://thelofiboi.newgrounds.com/"
+    },
+    {
+      "title" : "Glammerrot",
+      "image" : "glammerrot",
+      "artist" : "Nellyfluff",
+      "profile" : "https://nellyfluff.newgrounds.com/" 
+    },
+    {
+      "title" : "Gloopaspurm",
+      "image" : "gloopaspurm",
+      "artist" : "JoeyTheMarillFan",
+      "profile" : "https://joeythemarillfan.newgrounds.com/"
+    },
+    {
+      "title" : "Goobet",
+      "image" : "goobet",
+      "artist" : "mettoretto",
+      "profile" : "https://mettoretto.newgrounds.com/"
+    },
+    {
+      "title" : "Guntganto",
+      "image" : "Guntganto",
+      "artist" : "ItsRealKiwiHours",
+      "profile" : "https://itsrealkiwihours.newgrounds.com/"
+    },
+    {
+      "title" : "Heartthrob",
+      "image" : "heartthrob",
+      "artist" : "PaleFreak",
+      "profile" : "https://palefreak.newgrounds.com/" 
+    },
+    {
+      "title" : "Indulfluff Hearty Cutiepie Sweetheart Adorby the Fifth",
+      "image" : "hearty",
+      "artist" : "pasteluluu",
+      "profile" : "https://pasteluluu.newgrounds.com/" 
+    },
+    {
+      "title" : "Hopper",
+      "image" : "Hopper",
+      "artist" : "MayaLaCookie",
+      "profile" : "https://mayalacookie.newgrounds.com/" 
+    },
+    {
+      "title" : "Hubert",
+      "image" : "hubert",
+      "artist" : "thiccburger",
+      "profile" : "https://thiccburger.newgrounds.com/" 
+    },
+    {
+      "title" : "Huggin",
+      "image" : "Huggin",
+      "artist" : "BooneBum",
+      "profile" : "https://boonebum.newgrounds.com/" 
+    },
+    {
+      "title" : "Inspiderarachnid",
+      "image" : "Inspiderarachnid",
+      "artist" : "GetterRocka",
+      "profile" : "https://getterrocka.newgrounds.com/" 
+    },
+    {
+      "title" : "Jack's Crown",
+      "image" : "jackscrown",
+      "artist" : "Wojik",
+      "profile" : "https://twitter.com/WojikCantRest?t=oSwtqYF-a86ClISTWLNYUg&s=09"
+    },
+    {
+      "title" : "James",
+      "image" : "james",
+      "artist" : "lyaturni",
+      "profile" : "https://lyaturni.newgrounds.com/" 
+    },
+    {
+      "title" : "Jasmine",
+      "image" : "Jasmine",
+      "artist" : "lyaturni",
+      "profile" : "https://lyaturni.newgrounds.com/" 
+    },
+    {
+      "title" : "Jeremy The Coffin Eater",
+      "image" : "jeremythecoffineater",
+      "artist" : "GetterRocka",
+      "profile" : "https://getterrocka.newgrounds.com/" 
+    },
+    {
+      "title" : "Jumper",
+      "image" : "jumper",
+      "artist" : "MayaLaCookie",
+      "profile" : "https://mayalacookie.newgrounds.com/"  
+    },
+    {
+      "title" : "Kawaii.Girl.",
+      "image" : "kawaiigirl",
+      "artist" : "praise-bob",
+      "profile" : "https://praise-bob.newgrounds.com/"
+    },
+    {
+      "title" : "King and the Mostly Absorbed Milton",
+      "image" : "king",
+      "artist" : "twinklyPastries",
+      "profile" : "https://twinklypastries.newgrounds.com/trophies"
+    },
+    {
+      "title" : "Kragkle",
+      "image" : "kragkle",
+      "artist" : "angelfacepeanut",
+      "profile" : "https://angelfacepeanut.newgrounds.com/" 
+    },
+    {
+      "title" : "Lazereye",
+      "image" : "lazereye",
+      "artist" : "NN434444",
+      "profile" : "https://nn434444.newgrounds.com/" 
+    },
+    {
+      "title" : "Lightning-cat Frog",
+      "image" : "lightningcatfrog",
+      "artist" : "NotGWalker",
+      "profile" : "https://notgwalker.newgrounds.com/"
+    },
+    {
+      "title" : "Lil' Goober",
+      "image" : "lilgoober",
+      "artist" : "Krampus",
+      "profile" : "https://krampus.newgrounds.com/" 
+    },
+    {
+      "title" : "Little God",
+      "image" : "littlegod",
+      "artist" : "SirBooba",
+      "profile" : "https://sirbooba.newgrounds.com/" 
+    },
+    {
+      "title" : "Lord Humphrey Jebediah Wifflebottom the Third",
+      "image" : "lordHJWIII",
+      "artist" : "MetalSlayer69",
+      "profile" : "https://metalslayer69.newgrounds.com/" 
+    },
+    {
+      "title" : "Lumee",
+      "image" : "lumee",
+      "artist" : "praise-bob",
+      "profile" : "https://praise-bob.newgrounds.com/" 
+    },
+    {
+      "title" : "Marceleste",
+      "image" : "marceleste",
+      "artist" : "MicroBihon",
+      "profile" : "https://microbihon.newgrounds.com/" 
+    },
+    {
+      "title" : "Master of Mushrooms",
+      "image" : "masterofmushrooms",
+      "artist" : "Krampus",
+      "profile" : "https://krampus.newgrounds.com/" 
+    },
+    {
+      "title" : "Morris Bart",
+      "image" : "morrisbart",
+      "artist" : "NeonYZR",
+      "profile" : "https://neonyzr.newgrounds.com/" 
+    },
+    {
+      "title" : "Mutant Freak",
+      "image" : "mutantfreak",
+      "artist" : "BadBoyVince",
+      "profile" : "https://badboyvince.newgrounds.com/" 
+    },
+    {
+      "title" : "My Dearest",
+      "image" : "mydearest",
+      "artist" : "Bbii",
+      "profile" : "https://bbii.newgrounds.com/" 
+    },
+    {
+      "title" : "Osteal",
+      "image" : "osteal",
+      "artist" : "Yamperzzz",
+      "profile" : "https://yamperzzz.newgrounds.com/" 
+    },
+    {
+      "title" : "Patricia",
+      "image" : "patricia",
+      "artist" : "Bleak-Creep",
+      "profile" : "https://bleak-creep.newgrounds.com/" 
+    },
+    {
+      "title" : "Pyrite",
+      "image" : "pyrite",
+      "artist" : "slushy",
+      "profile" : "https://slushymiivo.newgrounds.com/" 
+    },
+    {
+      "title" : "Radrick",
+      "image" : "radrick",
+      "artist" : "OneDude20",
+      "profile" : "https://onedude20.newgrounds.com/" 
+    },
+    {
+      "title" : "RAT-KING",
+      "image" : "ratking",
+      "artist" : "Sangiez",
+      "profile" : "https://sangiez.newgrounds.com/" 
+    },
+    {
+      "title" : "Sanvich and Meh",
+      "image" : "sanvichandmeh",
+      "artist" : "Ret-art",
+      "profile" : "https://ret-art.newgrounds.com/" 
+    },
+    {
+      "title" : "Schlubert",
+      "image" : "Schlubert",
+      "artist" : "OneDude20",
+      "profile" : "https://onedude20.newgrounds.com/"
+    },
+    {
+      "title" : "Shaggy",
+      "image" : "shaggy",
+      "artist" : "icy64",
+      "profile" : "https://icy64.newgrounds.com/" 
+    },
+    {
+      "title" : "Sir Flabbus",
+      "image" : "sirflabbus",
+      "artist" : "ryve",
+      "profile" : "https://ryve.newgrounds.com/" 
+    },
+    {
+      "title" : "Skipper",
+      "image" : "Skipper",
+      "artist" : "MayaLaCookie",
+      "profile" : "https://mayalacookie.newgrounds.com/" 
+    },
+    {
+      "title" : "Slippin' Sam",
+      "image" : "slippinsam",
+      "artist" : "OneDude20",
+      "profile" : "https://onedude20.newgrounds.com/" 
+    },
+    {
+      "title" : "Smarm",
+      "image" : "smarm",
+      "artist" : "PaleFreak",
+      "profile" : "https://palefreak.newgrounds.com/" 
+    },
+    {
+      "title" : "Smelvin",
+      "image" : "smelvin",
+      "artist" : "NeonYZR",
+      "profile" : "https://neonyzr.newgrounds.com/" 
+    },
+    {
+      "title" : "Softspot",
+      "image" : "softspot",
+      "artist" : "weirtyuo",
+      "profile" : "https://weirtyuo.newgrounds.com/" 
+    },
+    {
+      "title" : "Sonny B.",
+      "image" : "sonnyb",
+      "artist" : "Sangiez",
+      "profile" : "https://sangiez.newgrounds.com/" 
+    },
+    {
+      "title" : "Stripes",
+      "image" : "Stripes",
+      "artist" : "Zeon02",
+      "profile" : "https://zeon02.newgrounds.com/" 
+    },
+    {
+      "title" : "Super Guy",
+      "image" : "superguy",
+      "artist" : "JoeyTheMarillFan",
+      "profile" : "https://joeythemarillfan.newgrounds.com/"
+    },
+    {
+      "title" : "Tamboyn",
+      "image" : "tamboyn",
+      "artist" : "toastesforever",
+      "profile" : "https://toastesforever.newgrounds.com/"
+    },
+    {
+      "title" : "Tesronaut",
+      "image" : "Tesronaut",
+      "artist" : "Wojik",
+      "profile" : "https://twitter.com/WojikCantRest?t=oSwtqYF-a86ClISTWLNYUg&s=09"
+    },
+    {
+      "title" : "The Blinded",
+      "image" : "theblinded",
+      "artist" : "SunShinr3",
+      "profile" : "https://sunshinr3.newgrounds.com/" 
+    },
+    {
+      "title" : "The Death Dealer",
+      "image" : "thedeathdealer",
+      "artist" : "Krampus",
+      "profile" : "https://krampus.newgrounds.com/" 
+    },
+    {
+      "title" : "The Great Progenitors",
+      "image" : "Thegreatprogenitors",
+      "artist" : "Thetageist",
+      "profile" : "https://thetageist.newgrounds.com/" 
+    },
+    {
+      "title" : "The Illusive Treasure Smeller",
+      "image" : "theillusivetreasuresmeller",
+      "artist" : "Ultranimation",
+      "profile" : "https://ultranimation.newgrounds.com/" 
+    },
+    {
+      "title" : "The Man from Mars",
+      "image" : "themanfrommars",
+      "artist" : "brocc-0",
+      "profile" : "https://brocc-0.newgrounds.com/"
+    },
+    {
+      "title" : "The Last One",
+      "image" : "thelastone",
+      "artist" : "brownfountain",
+      "profile" : "https://brownfountain.newgrounds.com/"
+    },
+    {
+      "title" : "Theorist",
+      "image" : "theorist",
+      "artist" : "slushy",
+      "profile" : "https://slushymiivo.newgrounds.com/" 
+    },
+    {
+      "title" : "Timmy",
+      "image" : "timmy",
+      "artist" : "Zeon02",
+      "profile" : "https://zeon02.newgrounds.com/" 
+    },
+    {
+      "title" : "Titshitter86",
+      "image" : "titshitter",
+      "artist" : "Gurchin",
+      "profile" : "https://gurchin.newgrounds.com/" 
+    },
+    {
+      "title" : "Tranya",
+      "image" : "tranya",
+      "artist" : "Nellyfluff",
+      "profile" : "https://nellyfluff.newgrounds.com/" 
+    },
+    {
+      "title" : "Tycho",
+      "image" : "tycho",
+      "artist" : "YuloYuppy",
+      "profile" : "https://yuloyuppy.newgrounds.com/" 
+    },
+    {
+      "title" : "Walking Creature",
+      "image" : "walkingcreature",
+      "artist" : "brownfountain",
+      "profile" : "https://brownfountain.newgrounds.com/" 
+    },
+    {
+      "title" : "Watchful Eye",
+      "image" : "watchfuleye",
+      "artist" : "SunShinr3",
+      "profile" : "https://sunshinr3.newgrounds.com/"
+    },
+    {
+      "title" : "Wondering Eye",
+      "image" : "wonderingeye",
+      "artist" : "SunShinr3",
+      "profile" : "https://sunshinr3.newgrounds.com/"
+    },
+    {
+      "title" : "Wretched One",
+      "image" : "wretchedone",
+      "artist" : "Eldritchsaxes",
+      "profile" : "https://eldritchsaxes.newgrounds.com/" 
+    },
+    {
+      "title" : "Zakarov",
+      "image" : "Zakarov",
+      "artist" : "Asskick247",
+      "profile" : "https://asskick247.newgrounds.com/" 
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "",
+      "image" : "",
+      "artist" : "",
+      "profile" : "",
+	 "medal" : false,
+	 "exist" : false
+    },
+    {
+      "title" : "...",
+      "image" : "him",
+      "artist" : "@##$^!%&",
+      "profile" : "https://www.youtube.com/watch?v=o6Z7ZpHRqDI",
+	 "medal" : false
+    }
+  ]
+}
